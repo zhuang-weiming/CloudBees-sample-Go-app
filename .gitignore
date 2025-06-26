@@ -1,0 +1,25 @@
+# Binaries
+/demo-app
+
+# OS generated files
+.DS_Store
+
+# Dependency directories
+vendor/
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Environment files
+.env
+
+# Build output
+*.out
+
+# Ignore sha.txt if you don't want to commit it
+# sha.txt
